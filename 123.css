@@ -1,0 +1,9 @@
+.Слой_3 {
+  background-image: url("Слой 3.png");
+  position: absolute;
+  left: 125px;
+  top: 547px;
+  width: 1749px;
+  height: 905px;
+  z-index: 5;
+}
